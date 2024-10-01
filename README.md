@@ -2,7 +2,7 @@
 
 </ul><h2> Preview ⚡️</h2>
 <p align="center">
-  <img src="./gemin-clone.jpg" alt="gemini" width="100%" />
+  <img src="./Assets/images/gemin-clone.jpg" alt="gemini" width="100%" />
 </p>
 
 ## Features 🔥
